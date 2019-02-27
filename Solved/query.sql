@@ -1,0 +1,2 @@
+-- Check
+SELECT * FROM original;
